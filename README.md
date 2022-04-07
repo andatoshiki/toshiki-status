@@ -1,7 +1,5 @@
 # [📈 Live Status](https://status.toshiki.top): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Anda Toshiki](www.toshiki.top).
-
 [![Uptime CI](https://github.com/andatoshiki/toshiki-status/workflows/Uptime%20CI/badge.svg)](https://github.com/andatoshiki/toshiki-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/andatoshiki/toshiki-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/andatoshiki/toshiki-status/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/andatoshiki/toshiki-status/workflows/Graphs%20CI/badge.svg)](https://github.com/andatoshiki/toshiki-status/actions?query=workflow%3A%22Graphs+CI%22)
