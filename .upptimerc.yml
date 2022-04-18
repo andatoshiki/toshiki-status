@@ -4,9 +4,9 @@ repo: toshiki-status # The name of this repository
 
 sites:
   - name: "🏘 Toshiki's Homepage"
-    url: https://www.toshiki.top
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+    url: https://www.toshiki.top/
+  - name: "💨 Toshiki's AC"
+    url: https://ac.toshiki.top/
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
@@ -24,8 +24,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: About me
+      href: https://www.toshiki.top/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
