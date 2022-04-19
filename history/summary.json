@@ -1,6 +1,6 @@
 [
   {
-    "name": "🏘 Toshiki's Homepage",
+    "name": "🏠 Toshiki's Homepage",
     "url": "https://www.toshiki.top/",
     "icon": "https://favicons.githubusercontent.com/www.toshiki.top",
     "slug": "toshiki-s-homepage",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 341,
-    "timeWeek": 393,
-    "timeMonth": 397,
-    "timeYear": 397,
+    "time": 395,
+    "timeDay": 343,
+    "timeWeek": 389,
+    "timeMonth": 395,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1849,
-    "timeDay": 1849,
-    "timeWeek": 1849,
-    "timeMonth": 1849,
-    "timeYear": 1849,
+    "time": 1392,
+    "timeDay": 1392,
+    "timeWeek": 1392,
+    "timeMonth": 1392,
+    "timeYear": 1392,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,7 @@
     "timeMonth": 1035,
     "timeYear": 1035,
     "dailyMinutesDown": {
-      "2022-04-19": 60,
+      "2022-04-19": 618,
       "2022-04-18": 141
     }
   },
