@@ -52,7 +52,7 @@
     "timeMonth": 723,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2022-04-20": 346,
+      "2022-04-20": 450,
       "2022-04-19": 1440,
       "2022-04-18": 141
     }
@@ -62,19 +62,19 @@
     "url": "https://lost-ark.top/",
     "icon": "https://favicons.githubusercontent.com/lost-ark.top",
     "slug": "lost-ark-chinese-forum",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1804,
-    "timeDay": 1804,
-    "timeWeek": 1804,
-    "timeMonth": 1804,
-    "timeYear": 1804,
+    "status": "up",
+    "uptime": "91.82%",
+    "uptimeDay": "91.82%",
+    "uptimeWeek": "91.82%",
+    "uptimeMonth": "91.82%",
+    "uptimeYear": "91.82%",
+    "time": 1922,
+    "timeDay": 1922,
+    "timeWeek": 1922,
+    "timeMonth": 1922,
+    "timeYear": 1922,
     "dailyMinutesDown": {
-      "2022-04-20": 0
+      "2022-04-20": 104
     }
   }
 ]
