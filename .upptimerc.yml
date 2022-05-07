@@ -40,7 +40,7 @@ status-website:
       href: /
     - title: About me
       href: https://www.toshiki.top/
-  customBodyHtml: "<!-- <div class="circle" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;"></div> -->"
+  customHeadHtml: "<div class="circle" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;"></div>"
   
 commitMessages:
   readmeContent: ":pencil: Update summary in `README` [skip ci] [upptime]"
