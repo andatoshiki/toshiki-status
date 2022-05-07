@@ -32,7 +32,6 @@ status-website:
   customBodyHtml: "<div class="circle" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;"></div>"
   scripts:
     - src: https://cdn.toshiki.top/js/fireworks.js
-      async: true
   name: "俊樹 | Status"
   introTitle: "👋 Welcome to 俊樹's site uptime monitor page!"
   introMessage:  🏠 You are now viewing ***俊樹* as well as *Kiwiers org's* sites uptime monitor/status page** powred by **upptime**, you are able to view most of active sites as well as their site live stats on whether they encounters ***uptime*** or ***downtime*** yet site downtime reports are able to find under [issue](https://github.com/andatoshiki/toshiki-status/) of my site repo on GitHub.
