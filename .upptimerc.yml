@@ -5,27 +5,46 @@ repo: toshiki-status # The name of this repository
 sites:
   - name: "🏠 Toshiki's Homepage"
     url: https://www.toshiki.top/
+    icon: https://cdn.toshiki.top/img/favicon.png
   - name: "💨 Toshiki's AC"
     url: https://ac.toshiki.top/
-  - name: "💫 Toshiki's CDN"
-    url: https://cdn.toshiki.top/
-  - name: '🧥 LostArk Chinese Forum'
-    url: https://lost-ark.top/
+    icon: https://cdn.toshiki.top/img/favicon.png
+  - name: "🌮 Toshiki's Proxypool"
+    url: https://proxypool.toshiki.top/
+    icon: https://cdn.toshiki.top/img/favicon.png
+  - name: "❤ Toshiki's Love Showcase"
+    url: https://love.toshiki.top/
+    icon: https://cdn.toshiki.top/img/favicon.png
+  - name: "🎏 Toshiki's Proxy Subscription"
+    url: https://subweb.toshiki.top/
+    icon: https://cdn.toshiki.top/img/favicon.png
+  - name: "📚 Toshiki's Comment"
+    url: https://comment.toshiki.top/
+    icon: https://cdn.toshiki.top/img/favicon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /toshiki-status
   cname: status.toshiki.top
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "✔ Toshiki's Status Page"
-  introTitle: "**You might need a VPN for mainland China viewers to get the best experience on viewing this site.**"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  favicon: https://cdn.toshiki.top/img/favicon.png
+  logoUrl: https://cdn.jsdelivr.net/gh/andatoshiki/toshiki-cdn@master/img/status.png
+  customBodyHtml: "<div class="circle" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;"></div>"
+  scripts:
+    - src: https://cdn.toshiki.top/js/fireworks.js
+      async: true
+  name: "俊樹 | Status"
+  introTitle: "👋 Welcome to 俊樹's site uptime monitor page!"
+  introMessage:  🏠 You are now viewing ***俊樹* as well as *Kiwiers org's* sites uptime monitor/status page** powred by **upptime**, you are able to view most of active sites as well as their site live stats on whether they encounters ***uptime*** or ***downtime*** yet site downtime reports are able to find under [issue](https://github.com/andatoshiki/toshiki-status/) of my site repo on GitHub.
   navbar:
     - title: Status
       href: /
     - title: About me
       href: https://www.toshiki.top/
-
+      
+commitMessages:
+  readmeContent: ":pencil: Update summary in `README` [skip ci] [upptime]"
+  commitAuthorName: "Anda Toshiki"
+  commitAuthorEmail: "andatoshiki@outlook.com"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
