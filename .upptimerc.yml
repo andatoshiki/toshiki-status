@@ -42,7 +42,6 @@ status-website:
       href: https://www.toshiki.top/
   
 commitMessages:
-  readmeContent: ":pencil: Update summary in `README` [skip ci] [upptime]"
   commitAuthorName: "Anda Toshiki"
   commitAuthorEmail: "andatoshiki@outlook.com"
 # Upptime also supports notifications, assigning issues, and more
