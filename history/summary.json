@@ -151,19 +151,19 @@
     "url": "https://oneindext.toshiki.top/",
     "icon": "https://cdn.toshiki.top/img/oneindext.ico",
     "slug": "toshiki-s-one-index-t-stats",
-    "status": "down",
-    "uptime": "6.43%",
-    "uptimeDay": "6.43%",
-    "uptimeWeek": "6.43%",
-    "uptimeMonth": "6.43%",
-    "uptimeYear": "6.43%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.44%",
+    "uptimeDay": "0.44%",
+    "uptimeWeek": "0.44%",
+    "uptimeMonth": "0.44%",
+    "uptimeYear": "0.44%",
+    "time": 113,
+    "timeDay": 113,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2022-05-08": 0
+      "2022-05-08": 15
     }
   }
 ]
