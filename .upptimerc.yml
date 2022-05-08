@@ -24,6 +24,9 @@ sites:
   - name: "⚖ Toshiki's CDN"
     url: https://cdn.toshiki.top
     icon: https://cdn.toshiki.top/img/favicon.png
+  - name: "☁️ Toshiki's OneIndexT stats"
+    url: https://oneindext.toshiki.top/
+    icon: https://cdn.toshiki.top/img/oneindext.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
