@@ -27,6 +27,9 @@ sites:
   - name: "☁️ Toshiki's OneIndexT stats"
     url: https://oneindext.toshiki.top/
     icon: https://cdn.toshiki.top/img/oneindext.ico
+  - name: "🥓 Toshiki's image host"
+    url: https://image.toshiki.top/
+    icon: https://image.toshiki.top/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
