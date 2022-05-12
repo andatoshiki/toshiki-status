@@ -40,18 +40,20 @@
     "url": "https://proxypool.toshiki.top/",
     "icon": "https://cdn.toshiki.top/img/favicon.png",
     "slug": "toshiki-s-proxypool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 930,
-    "timeDay": 892,
-    "timeWeek": 930,
-    "timeMonth": 930,
-    "timeYear": 930,
-    "dailyMinutesDown": {}
+    "time": 920,
+    "timeDay": 870,
+    "timeWeek": 920,
+    "timeMonth": 920,
+    "timeYear": 920,
+    "dailyMinutesDown": {
+      "2022-05-12": 0
+    }
   },
   {
     "name": "❤ Toshiki's Love Showcase",
@@ -115,7 +117,7 @@
     "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.20%",
+    "uptimeWeek": "78.74%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 486,
