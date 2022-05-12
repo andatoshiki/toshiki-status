@@ -24,12 +24,15 @@ sites:
   - name: "⚖ Toshiki's CDN"
     url: https://cdn.toshiki.top
     icon: https://cdn.toshiki.top/img/favicon.png
-  - name: "☁️ Toshiki's OneIndexT stats"
+  - name: "☁️ Toshiki's OneIndexT Stats"
     url: https://oneindext.toshiki.top/
     icon: https://cdn.toshiki.top/img/oneindext.ico
-  - name: "🥓 Toshiki's image host"
+  - name: "🥓 Toshiki's Image Host"
     url: https://image.toshiki.top/
     icon: https://image.toshiki.top/favicon.ico
+  - name: "🍭 Toshiki's Aria2 Panel"
+    url: http://aria.toshiki.top/
+    icon: https://cdn.toshiki.top/img/favicon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
