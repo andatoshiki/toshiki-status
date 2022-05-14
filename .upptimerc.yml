@@ -33,7 +33,7 @@ sites:
   - name: "🍭 Toshiki's Aria2 Panel"
     url: http://aria.toshiki.top/
     icon: https://cdn.toshiki.top/img/favicon.png
-  - name: "🍛 cLostArk Chinese Forum"
+  - name: "🍛 LostArk Chinese Forum"
     url: https://lost-ark.top/
     icon: https://cdn.jsdelivr.net/gh/white-windmills/lostark-forum@master/img/lostarkFavicon/lostarkFav.png
 
