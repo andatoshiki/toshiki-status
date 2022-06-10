@@ -49,7 +49,7 @@ status-website:
   logoUrl: https://cdn.jsdelivr.net/gh/andatoshiki/toshiki-cdn@master/img/status.png
   name: "俊樹 | Status"
   introTitle: "👋 Welcome to 俊樹's site uptime monitor page!"
-  introMessage:  🏠 You are now viewing ***俊樹* as well as *Kiwiers org's* sites uptime monitor/status page** powred by **upptime**, you are able to view most of active sites as well as their site live stats on whether they encounters ***uptime*** or ***downtime*** yet site downtime reports are able to find under [issue](https://github.com/andatoshiki/toshiki-status/) of my site repo on GitHub.
+  introMessage:  🏠 You are now viewing ***俊樹* as well as *Kiwiers org's* sites uptime monitor/status page** powred by **upptime**, you are able to view most of active sites as well as their site live stats on whether they encounters ***uptime*** or ***downtime***, yet site downtime reports are available under [this](https://github.com/andatoshiki/toshiki-status/) repo's issue section!
   navbar:
     - title: Status
       href: /
