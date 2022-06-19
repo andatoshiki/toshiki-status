@@ -31,7 +31,7 @@ sites:
     url: https://image.toshiki.top/
     icon: https://image.toshiki.top/favicon.ico
   - name: "🍭 Toshiki's Aria2 Panel"
-    url: http://aria.toshiki.top/
+    url: http://download.toshiki.top/
     icon: https://cdn.toshiki.top/img/favicon.png
   - name: "🍛 LostArk Chinese Forum"
     url: https://lost-ark.top/
