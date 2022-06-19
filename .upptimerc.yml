@@ -57,7 +57,7 @@ status-website:
       href: https://www.toshiki.top/
   
 commitMessages:
-  commitAuthorName: "Anda Toshiki"
-  commitAuthorEmail: "andatoshiki@outlook.com"
+  commitAuthorName: "@andatoshiki"
+  commitAuthorEmail: "a_toshiki@outlook.com"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
