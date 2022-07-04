@@ -67,3 +67,5 @@ commitMessages:
   commitAuthorEmail: "a_toshiki@outlook.com"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:
+  footer: Made with ❤ by [@andatoshiki](//github.com/andatoshiki)
