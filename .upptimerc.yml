@@ -21,9 +21,9 @@ sites:
   - name: "📚 Toshiki's Comment"
     url: https://comment.toshiki.top/
     icon: https://cdn.toshiki.top/img/favicon.png
-  - name: "⚖ Toshiki's CDN"
-    url: https://cdn.toshiki.top
-    icon: https://cdn.toshiki.top/img/favicon.png
+#   - name: "⚖ Toshiki's CDN"
+#     url: https://cdn.toshiki.top
+#     icon: https://cdn.toshiki.top/img/favicon.png
   - name: "☁️ Toshiki's OneIndexT Stats"
     url: https://oneindext.toshiki.top/
     icon: https://cdn.toshiki.top/img/oneindext.ico
