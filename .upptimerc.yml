@@ -12,9 +12,6 @@ sites:
   - name: "🌮 Toshiki's Proxypool"
     url: https://proxypool.toshiki.top/
     icon: https://cdn.toshiki.top/img/favicon.png
-  - name: "❤ Toshiki's Love Showcase"
-    url: https://love.toshiki.top/
-    icon: https://cdn.toshiki.top/img/favicon.png
   - name: "🎏 Toshiki's Proxy Subscription"
     url: https://subweb.toshiki.top/
     icon: https://cdn.toshiki.top/img/favicon.png
