@@ -84,10 +84,10 @@
     "url": "https://comment.toshiki.top/",
     "icon": "https://cdn.toshiki.top/img/favicon.png",
     "slug": "toshiki-s-comment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 3370,
@@ -96,6 +96,7 @@
     "timeMonth": 2829,
     "timeYear": 3370,
     "dailyMinutesDown": {
+      "2022-09-29": 1,
       "2022-07-28": 28
     }
   },
@@ -104,10 +105,10 @@
     "url": "https://oneindext.toshiki.top/",
     "icon": "https://cdn.toshiki.top/img/oneindext.ico",
     "slug": "toshiki-s-one-index-t-stats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 338,
@@ -116,6 +117,7 @@
     "timeMonth": 475,
     "timeYear": 338,
     "dailyMinutesDown": {
+      "2022-09-29": 1,
       "2022-07-28": 27,
       "2022-05-08": 15
     }
@@ -186,9 +188,9 @@
     "url": "https://lost-ark.top/",
     "icon": "https://cdn.jsdelivr.net/gh/white-windmills/lostark-forum@master/img/lostarkFavicon/lostarkFav.png",
     "slug": "lost-ark-chinese-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.86%",
@@ -198,6 +200,7 @@
     "timeMonth": 3126,
     "timeYear": 2808,
     "dailyMinutesDown": {
+      "2022-09-29": 0,
       "2022-09-15": 58,
       "2022-09-09": 16,
       "2022-09-01": 16,
@@ -232,9 +235,9 @@
     "url": "https://nav.toshiki.top/",
     "icon": "https://gallery.toshiki.top/favicon.ico",
     "slug": "toshiki-s-navigation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -244,6 +247,7 @@
     "timeMonth": 404,
     "timeYear": 367,
     "dailyMinutesDown": {
+      "2022-09-29": 0,
       "2022-07-28": 27
     }
   }
