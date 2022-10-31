@@ -342,11 +342,11 @@
     "icon": "https://gallery.toshiki.top/favicon.ico",
     "slug": "toshiki-s-r2-storage",
     "status": "down",
-    "uptime": "5.01%",
-    "uptimeDay": "5.01%",
-    "uptimeWeek": "5.01%",
-    "uptimeMonth": "5.01%",
-    "uptimeYear": "5.01%",
+    "uptime": "3.33%",
+    "uptimeDay": "3.33%",
+    "uptimeWeek": "3.33%",
+    "uptimeMonth": "3.33%",
+    "uptimeYear": "3.33%",
     "time": 415,
     "timeDay": 415,
     "timeWeek": 415,
@@ -362,18 +362,18 @@
     "icon": "https://gallery.toshiki.top/favicon.ico",
     "slug": "toshiki-s-r2-storage-bak",
     "status": "down",
-    "uptime": "5.27%",
-    "uptimeDay": "5.27%",
-    "uptimeWeek": "5.27%",
-    "uptimeMonth": "5.27%",
-    "uptimeYear": "5.27%",
+    "uptime": "3.23%",
+    "uptimeDay": "3.23%",
+    "uptimeWeek": "3.23%",
+    "uptimeMonth": "3.23%",
+    "uptimeYear": "3.23%",
     "time": 377,
     "timeDay": 377,
     "timeWeek": 377,
     "timeMonth": 377,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2022-10-31": 0
+      "2022-10-31": 1
     }
   }
 ]
