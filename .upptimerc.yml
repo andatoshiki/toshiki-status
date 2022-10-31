@@ -42,6 +42,12 @@ sites:
   - name: "🍩 Toshiki's Navigation"
     url: https://nav.toshiki.top/
     icon: https://gallery.toshiki.top/favicon.ico
+  - name: "🐻 Toshiki's R2 Storage"
+    url: https://r2.toshiki.dev/
+    icon: https://gallery.toshiki.top/favicon.ico
+  - name: "🐗 Toshiki's R2 Storage-bak"
+    url: https://r2.toshiki.top/
+    icon: https://gallery.toshiki.top/favicon.ico
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
