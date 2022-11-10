@@ -70,6 +70,15 @@ status-website:
       href: /
     - title: About me
       href: https://www.toshiki.top/
+
+workflowSchedule:
+  graphs: "0 */2 * * *"
+  responseTime: "0 */2 * * *"
+  staticSite: "0 */2 * * *"
+  summary: "0 */2 * * *"
+  updateTemplate: "0 */2 * * *"
+  updates: "0 */2 * * *"
+  uptime: "0 */2 * * *"
   
 commitMessages:
   commitAuthorName: "@andatoshiki"
