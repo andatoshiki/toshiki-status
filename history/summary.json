@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 302,
-    "timeWeek": 321,
+    "time": 371,
+    "timeDay": 289,
+    "timeWeek": 320,
     "timeMonth": 362,
     "timeYear": 370,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 350,
-    "timeDay": 246,
-    "timeWeek": 294,
-    "timeMonth": 352,
+    "timeDay": 253,
+    "timeWeek": 293,
+    "timeMonth": 351,
     "timeYear": 349,
     "dailyMinutesDown": {}
   },
@@ -45,7 +45,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.27%",
     "time": 689,
     "timeDay": 0,
     "timeWeek": 0,
@@ -57,8 +57,7 @@
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
-      "2022-11-22": 1440,
-      "2022-11-21": 1440
+      "2022-11-22": 1440
     }
   },
   {
@@ -73,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 205,
-    "timeWeek": 312,
-    "timeMonth": 290,
+    "timeDay": 198,
+    "timeWeek": 309,
+    "timeMonth": 289,
     "timeYear": 316,
     "dailyMinutesDown": {}
   },
@@ -89,7 +88,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -101,8 +100,7 @@
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
-      "2022-11-22": 1440,
-      "2022-11-21": 1440
+      "2022-11-22": 1440
     }
   },
   {
@@ -111,11 +109,11 @@
     "icon": "https://cdn.toshiki.top/img/oneindext.ico",
     "slug": "toshiki-s-one-index-t-stats",
     "status": "down",
-    "uptime": "89.44%",
+    "uptime": "89.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -127,8 +125,7 @@
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
-      "2022-11-22": 1440,
-      "2022-11-21": 1440
+      "2022-11-22": 1440
     }
   },
   {
@@ -155,18 +152,19 @@
     "icon": "https://cdn.toshiki.top/img/favicon.png",
     "slug": "toshiki-s-aria2-panel",
     "status": "down",
-    "uptime": "65.47%",
+    "uptime": "65.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.62%",
-    "time": 548,
+    "uptimeYear": "52.59%",
+    "time": 547,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2023-11-20": 1326,
+      "2023-11-21": 19,
+      "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -342,8 +340,7 @@
       "2022-12-02": 1440,
       "2022-12-01": 239,
       "2022-11-23": 114,
-      "2022-11-22": 1078,
-      "2022-11-21": 40
+      "2022-11-22": 1078
     }
   },
   {
@@ -357,7 +354,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.56%",
-    "time": 2739,
+    "time": 2740,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -394,9 +391,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 363,
-    "timeWeek": 312,
+    "time": 344,
+    "timeDay": 327,
+    "timeWeek": 313,
     "timeMonth": 296,
     "timeYear": 347,
     "dailyMinutesDown": {}
@@ -413,9 +410,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
     "time": 243,
-    "timeDay": 165,
-    "timeWeek": 175,
-    "timeMonth": 234,
+    "timeDay": 158,
+    "timeWeek": 171,
+    "timeMonth": 233,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2023-02-11": 120,
@@ -434,10 +431,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.27%",
     "time": 482,
-    "timeDay": 562,
-    "timeWeek": 589,
+    "timeDay": 559,
+    "timeWeek": 583,
     "timeMonth": 576,
     "timeYear": 485,
     "dailyMinutesDown": {
@@ -446,8 +443,7 @@
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
-      "2022-11-22": 1440,
-      "2022-11-21": 1440
+      "2022-11-22": 1440
     }
   },
   {
@@ -460,20 +456,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.27%",
     "time": 481,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 511,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2022-11-27": 488,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
-      "2022-11-22": 1440,
-      "2022-11-21": 1440
+      "2022-11-22": 1440
     }
   },
   {
@@ -488,8 +483,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 110,
-    "timeWeek": 164,
+    "timeDay": 96,
+    "timeWeek": 163,
     "timeMonth": 152,
     "timeYear": 148,
     "dailyMinutesDown": {}
@@ -506,7 +501,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 134,
+    "timeDay": 130,
     "timeWeek": 118,
     "timeMonth": 149,
     "timeYear": 153,
