@@ -628,7 +628,7 @@
     "slug": "lost-ark-chinese-forum",
     "status": "up",
     "uptime": "97.01%",
-    "uptimeDay": "80.44%",
+    "uptimeDay": "80.33%",
     "uptimeWeek": "82.47%",
     "uptimeMonth": "74.76%",
     "uptimeYear": "97.63%",
@@ -638,7 +638,7 @@
     "timeMonth": 1549,
     "timeYear": 1536,
     "dailyMinutesDown": {
-      "2024-08-29": 11,
+      "2024-08-29": 13,
       "2024-08-28": 270,
       "2024-08-27": 343,
       "2024-08-26": 114,
