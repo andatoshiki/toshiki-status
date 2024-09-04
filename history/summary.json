@@ -621,18 +621,17 @@
     "icon": "https://cdn.jsdelivr.net/gh/white-windmills/lostark-forum@master/img/lostarkFavicon/lostarkFav.png",
     "slug": "lost-ark-chinese-forum",
     "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "82.93%",
-    "uptimeWeek": "64.97%",
-    "uptimeMonth": "70.01%",
-    "uptimeYear": "97.21%",
+    "uptime": "98.78%",
+    "uptimeDay": "83.58%",
+    "uptimeWeek": "65.07%",
+    "uptimeMonth": "70.03%",
+    "uptimeYear": "97.19%",
     "time": 1581,
     "timeDay": 684,
     "timeWeek": 1912,
     "timeMonth": 1729,
     "timeYear": 1581,
     "dailyMinutesDown": {
-      "2024-09-04": 9,
       "2024-09-03": 237,
       "2024-09-02": 799,
       "2024-09-01": 236,
@@ -669,7 +668,7 @@
       "2024-07-31": 231,
       "2024-07-30": 350,
       "2024-07-29": 233,
-      "2024-07-28": 352
+      "2024-07-28": 471
     }
   },
   {
