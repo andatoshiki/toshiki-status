@@ -129,7 +129,7 @@
     "time": 582,
     "timeDay": 833,
     "timeWeek": 841,
-    "timeMonth": 870,
+    "timeMonth": 869,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2024-07-17": 120,
@@ -499,7 +499,7 @@
     "icon": "https://cdn.toshiki.top/img/favicon.png",
     "slug": "toshiki-s-aria2-panel",
     "status": "up",
-    "uptime": "75.07%",
+    "uptime": "75.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
