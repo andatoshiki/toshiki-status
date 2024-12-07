@@ -479,7 +479,7 @@
     "timeMonth": 849,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2024-12-07": 725,
+      "2024-12-07": 729,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
@@ -635,19 +635,19 @@
     "url": "https://lost-ark.top/",
     "icon": "https://cdn.jsdelivr.net/gh/white-windmills/lostark-forum@master/img/lostarkFavicon/lostarkFav.png",
     "slug": "lost-ark-chinese-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "68.81%",
-    "uptimeWeek": "76.92%",
-    "uptimeMonth": "77.41%",
-    "uptimeYear": "97.47%",
+    "uptimeDay": "68.98%",
+    "uptimeWeek": "76.90%",
+    "uptimeMonth": "77.40%",
+    "uptimeYear": "97.49%",
     "time": 865,
     "timeDay": 461,
-    "timeWeek": 704,
+    "timeWeek": 707,
     "timeMonth": 670,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2024-12-07": 215,
+      "2024-12-07": 217,
       "2024-12-06": 236,
       "2024-12-05": 328,
       "2024-12-04": 350,
@@ -686,7 +686,7 @@
       "2024-11-01": 234,
       "2024-10-31": 589,
       "2024-10-30": 242,
-      "2024-10-29": 233
+      "2024-10-29": 119
     }
   },
   {
@@ -706,7 +706,7 @@
     "timeMonth": 803,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2024-12-07": 725,
+      "2024-12-07": 730,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
@@ -922,7 +922,7 @@
     "timeMonth": 809,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-12-07": 725,
+      "2024-12-07": 730,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
