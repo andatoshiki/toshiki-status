@@ -8,11 +8,11 @@
     "uptime": "83.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.62%",
-    "uptimeYear": "60.17%",
+    "uptimeMonth": "32.93%",
+    "uptimeYear": "60.20%",
     "time": 903,
-    "timeDay": 824,
-    "timeWeek": 816,
+    "timeDay": 843,
+    "timeWeek": 820,
     "timeMonth": 798,
     "timeYear": 903,
     "dailyMinutesDown": {
@@ -170,8 +170,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -183,11 +182,11 @@
     "uptime": "86.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.62%",
-    "uptimeYear": "67.68%",
+    "uptimeMonth": "32.93%",
+    "uptimeYear": "67.70%",
     "time": 877,
-    "timeDay": 783,
-    "timeWeek": 853,
+    "timeDay": 779,
+    "timeWeek": 854,
     "timeMonth": 810,
     "timeYear": 877,
     "dailyMinutesDown": {
@@ -312,8 +311,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -325,11 +323,11 @@
     "uptime": "88.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.62%",
+    "uptimeMonth": "32.93%",
     "uptimeYear": "75.64%",
     "time": 862,
-    "timeDay": 741,
-    "timeWeek": 796,
+    "timeDay": 746,
+    "timeWeek": 798,
     "timeMonth": 757,
     "timeYear": 862,
     "dailyMinutesDown": {
@@ -436,14 +434,14 @@
     "icon": "https://cdn.toshiki.top/img/favicon.png",
     "slug": "toshiki-s-proxy-subscription",
     "status": "up",
-    "uptime": "86.48%",
+    "uptime": "86.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.62%",
-    "uptimeYear": "68.89%",
+    "uptimeMonth": "32.93%",
+    "uptimeYear": "68.91%",
     "time": 853,
-    "timeDay": 717,
-    "timeWeek": 753,
+    "timeDay": 722,
+    "timeWeek": 754,
     "timeMonth": 740,
     "timeYear": 853,
     "dailyMinutesDown": {
@@ -564,8 +562,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -577,10 +574,10 @@
     "uptime": "88.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.62%",
+    "uptimeMonth": "32.93%",
     "uptimeYear": "83.61%",
     "time": 830,
-    "timeDay": 728,
+    "timeDay": 733,
     "timeWeek": 758,
     "timeMonth": 761,
     "timeYear": 830,
@@ -661,10 +658,10 @@
     "uptime": "85.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.62%",
+    "uptimeMonth": "32.93%",
     "uptimeYear": "74.23%",
     "time": 826,
-    "timeDay": 695,
+    "timeDay": 699,
     "timeWeek": 778,
     "timeMonth": 748,
     "timeYear": 826,
@@ -777,10 +774,10 @@
     "uptime": "81.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.62%",
+    "uptimeMonth": "32.94%",
     "uptimeYear": "49.41%",
     "time": 799,
-    "timeDay": 735,
+    "timeDay": 744,
     "timeWeek": 702,
     "timeMonth": 706,
     "timeYear": 799,
@@ -988,8 +985,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.41%",
     "time": 617,
-    "timeDay": 561,
-    "timeWeek": 640,
+    "timeDay": 565,
+    "timeWeek": 641,
     "timeMonth": 584,
     "timeYear": 622,
     "dailyMinutesDown": {
@@ -1023,8 +1020,8 @@
     "uptimeMonth": "74.75%",
     "uptimeYear": "97.19%",
     "time": 690,
-    "timeDay": 440,
-    "timeWeek": 682,
+    "timeDay": 442,
+    "timeWeek": 684,
     "timeMonth": 449,
     "timeYear": 690,
     "dailyMinutesDown": {
@@ -1076,13 +1073,13 @@
     "icon": "https://gallery.toshiki.top/favicon.ico",
     "slug": "toshiki-s-gallery",
     "status": "up",
-    "uptime": "72.70%",
+    "uptime": "72.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.62%",
-    "uptimeYear": "32.01%",
+    "uptimeMonth": "32.94%",
+    "uptimeYear": "32.04%",
     "time": 786,
-    "timeDay": 678,
+    "timeDay": 683,
     "timeWeek": 749,
     "timeMonth": 700,
     "timeYear": 786,
@@ -1336,8 +1333,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -1349,11 +1345,11 @@
     "uptime": "71.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.62%",
-    "uptimeYear": "31.93%",
+    "uptimeMonth": "32.94%",
+    "uptimeYear": "31.95%",
     "time": 772,
-    "timeDay": 697,
-    "timeWeek": 744,
+    "timeDay": 720,
+    "timeWeek": 748,
     "timeMonth": 695,
     "timeYear": 772,
     "dailyMinutesDown": {
@@ -1610,8 +1606,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -1626,8 +1621,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
-    "timeDay": 133,
-    "timeWeek": 128,
+    "timeDay": 136,
+    "timeWeek": 129,
     "timeMonth": 130,
     "timeYear": 311,
     "dailyMinutesDown": {}
@@ -1641,11 +1636,11 @@
     "uptime": "86.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.62%",
+    "uptimeMonth": "32.94%",
     "uptimeYear": "75.67%",
     "time": 772,
-    "timeDay": 718,
-    "timeWeek": 696,
+    "timeDay": 725,
+    "timeWeek": 695,
     "timeMonth": 710,
     "timeYear": 772,
     "dailyMinutesDown": {
@@ -1757,9 +1752,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 159,
-    "timeDay": 508,
-    "timeWeek": 213,
-    "timeMonth": 172,
+    "timeDay": 511,
+    "timeWeek": 214,
+    "timeMonth": 171,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2024-06-02": 118
@@ -1774,12 +1769,12 @@
     "uptime": "82.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.62%",
-    "uptimeYear": "65.72%",
+    "uptimeMonth": "32.94%",
+    "uptimeYear": "65.74%",
     "time": 757,
-    "timeDay": 702,
-    "timeWeek": 676,
-    "timeMonth": 740,
+    "timeDay": 708,
+    "timeWeek": 678,
+    "timeMonth": 739,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2025-02-26": 603,
@@ -1909,8 +1904,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   }
 ]
