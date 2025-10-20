@@ -1,7 +1,7 @@
 url: https://coverview.toshiki.dev/
-status: up
-code: 200
-responseTime: 123
-lastUpdated: 2025-10-20T06:03:53.804Z
+status: down
+code: 500
+responseTime: 54
+lastUpdated: 2025-10-20T08:03:49.643Z
 startTime: 2022-10-31T03:41:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
