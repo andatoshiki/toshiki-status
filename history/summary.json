@@ -5,11 +5,11 @@
     "icon": "https://cdn.toshiki.top/img/favicon.png",
     "slug": "toshiki-s-homepage",
     "status": "down",
-    "uptime": "65.45%",
+    "uptime": "65.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.66%",
-    "uptimeMonth": "15.96%",
-    "uptimeYear": "8.11%",
+    "uptimeWeek": "85.00%",
+    "uptimeMonth": "17.65%",
+    "uptimeYear": "8.25%",
     "time": 812,
     "timeDay": 0,
     "timeWeek": 0,
@@ -352,8 +352,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -362,16 +361,16 @@
     "icon": "https://cdn.toshiki.top/img/favicon.png",
     "slug": "toshiki-s-ac",
     "status": "down",
-    "uptime": "69.51%",
+    "uptime": "69.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.66%",
-    "uptimeMonth": "15.96%",
-    "uptimeYear": "17.20%",
+    "uptimeWeek": "85.01%",
+    "uptimeMonth": "17.65%",
+    "uptimeYear": "17.34%",
     "time": 786,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 797,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2026-01-28": 108,
       "2026-01-27": 1440,
@@ -675,8 +674,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -685,11 +683,11 @@
     "icon": "https://cdn.toshiki.top/img/favicon.png",
     "slug": "toshiki-s-proxypool",
     "status": "down",
-    "uptime": "68.44%",
+    "uptime": "68.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.67%",
-    "uptimeMonth": "15.97%",
-    "uptimeYear": "7.93%",
+    "uptimeWeek": "85.01%",
+    "uptimeMonth": "17.66%",
+    "uptimeYear": "8.07%",
     "time": 761,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1032,8 +1030,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -1042,16 +1039,16 @@
     "icon": "https://cdn.toshiki.top/img/favicon.png",
     "slug": "toshiki-s-proxy-subscription",
     "status": "down",
-    "uptime": "66.95%",
+    "uptime": "66.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.67%",
-    "uptimeMonth": "15.97%",
-    "uptimeYear": "7.93%",
-    "time": 754,
+    "uptimeWeek": "85.02%",
+    "uptimeMonth": "17.66%",
+    "uptimeYear": "8.07%",
+    "time": 755,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 765,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2026-01-28": 108,
       "2026-01-27": 1440,
@@ -1389,8 +1386,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -1399,16 +1395,16 @@
     "icon": "https://cdn.toshiki.top/img/favicon.png",
     "slug": "toshiki-s-comment",
     "status": "down",
-    "uptime": "70.94%",
+    "uptime": "70.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.67%",
-    "uptimeMonth": "15.97%",
-    "uptimeYear": "17.20%",
+    "uptimeWeek": "85.02%",
+    "uptimeMonth": "17.66%",
+    "uptimeYear": "17.34%",
     "time": 748,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 757,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2026-01-28": 108,
       "2026-01-27": 1440,
@@ -1713,8 +1709,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -1723,16 +1718,16 @@
     "icon": "https://cdn.toshiki.top/img/oneindext.ico",
     "slug": "toshiki-s-one-index-t-stats",
     "status": "down",
-    "uptime": "68.40%",
+    "uptime": "68.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.68%",
-    "uptimeMonth": "15.97%",
-    "uptimeYear": "17.22%",
+    "uptimeWeek": "85.02%",
+    "uptimeMonth": "17.66%",
+    "uptimeYear": "17.36%",
     "time": 741,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 751,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2026-01-28": 108,
       "2026-01-27": 1440,
@@ -2036,8 +2031,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -2046,11 +2040,11 @@
     "icon": "https://image.toshiki.top/favicon.ico",
     "slug": "toshiki-s-image-host",
     "status": "down",
-    "uptime": "65.89%",
+    "uptime": "65.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.68%",
-    "uptimeMonth": "15.97%",
-    "uptimeYear": "17.22%",
+    "uptimeWeek": "85.02%",
+    "uptimeMonth": "17.66%",
+    "uptimeYear": "17.36%",
     "time": 714,
     "timeDay": 0,
     "timeWeek": 0,
@@ -2359,8 +2353,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -2369,10 +2362,10 @@
     "icon": "https://cdn.toshiki.top/img/favicon.png",
     "slug": "toshiki-s-aria2-panel",
     "status": "down",
-    "uptime": "64.04%",
+    "uptime": "64.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.68%",
-    "uptimeMonth": "15.97%",
+    "uptimeWeek": "85.03%",
+    "uptimeMonth": "17.66%",
     "uptimeYear": "23.77%",
     "time": 578,
     "timeDay": 0,
@@ -2670,14 +2663,14 @@
     "status": "down",
     "uptime": "88.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.69%",
-    "uptimeMonth": "15.97%",
+    "uptimeWeek": "85.03%",
+    "uptimeMonth": "17.66%",
     "uptimeYear": "55.95%",
     "time": 965,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 993,
+    "timeYear": 994,
     "dailyMinutesDown": {
       "2026-01-28": 108,
       "2026-01-27": 1440,
@@ -2879,11 +2872,11 @@
     "icon": "https://gallery.toshiki.top/favicon.ico",
     "slug": "toshiki-s-gallery",
     "status": "down",
-    "uptime": "56.23%",
+    "uptime": "56.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.69%",
-    "uptimeMonth": "15.97%",
-    "uptimeYear": "8.09%",
+    "uptimeWeek": "85.03%",
+    "uptimeMonth": "17.66%",
+    "uptimeYear": "8.23%",
     "time": 701,
     "timeDay": 0,
     "timeWeek": 0,
@@ -3226,8 +3219,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -3236,16 +3228,16 @@
     "icon": "https://gallery.toshiki.top/favicon.ico",
     "slug": "toshiki-s-navigation",
     "status": "down",
-    "uptime": "55.12%",
+    "uptime": "55.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.69%",
-    "uptimeMonth": "15.97%",
-    "uptimeYear": "8.09%",
-    "time": 704,
+    "uptimeWeek": "85.04%",
+    "uptimeMonth": "17.66%",
+    "uptimeYear": "8.23%",
+    "time": 705,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 711,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2026-01-28": 108,
       "2026-01-27": 1440,
@@ -3583,8 +3575,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -3599,8 +3590,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 145,
-    "timeWeek": 185,
+    "timeDay": 160,
+    "timeWeek": 146,
     "timeMonth": 161,
     "timeYear": 155,
     "dailyMinutesDown": {}
@@ -3611,11 +3602,11 @@
     "icon": "https://gallery.toshiki.top/favicon.ico",
     "slug": "toshiki-s-r2-storage-bak",
     "status": "down",
-    "uptime": "64.02%",
+    "uptime": "64.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.71%",
-    "uptimeMonth": "15.97%",
-    "uptimeYear": "7.91%",
+    "uptimeWeek": "85.05%",
+    "uptimeMonth": "17.66%",
+    "uptimeYear": "8.05%",
     "time": 695,
     "timeDay": 0,
     "timeWeek": 0,
@@ -3959,8 +3950,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -3975,9 +3965,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 181,
-    "timeDay": 194,
-    "timeWeek": 211,
-    "timeMonth": 215,
+    "timeDay": 243,
+    "timeWeek": 213,
+    "timeMonth": 216,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2025-10-20": 119,
@@ -3991,16 +3981,16 @@
     "icon": "https://gallery.toshiki.top/favicon.ico",
     "slug": "toshiki-s-coverview-bak",
     "status": "down",
-    "uptime": "63.91%",
+    "uptime": "63.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.71%",
-    "uptimeMonth": "15.98%",
-    "uptimeYear": "17.22%",
+    "uptimeWeek": "85.06%",
+    "uptimeMonth": "17.67%",
+    "uptimeYear": "17.36%",
     "time": 707,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 714,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2026-01-28": 108,
       "2026-01-27": 1440,
@@ -4304,8 +4294,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   }
 ]
